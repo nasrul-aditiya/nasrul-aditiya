@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! My name is Nasrul Aditiya, and I'm an ordinary person from Pontianak.</h2>
-
+<h2 align="center">Hello there! 👋 I'm Nasrul Aditiya</h2>
+<p align="center">A passionate software development student at Politeknik Negeri Pontianakwith a passion for software development.</p>
 ###
 
 <div align="center">
