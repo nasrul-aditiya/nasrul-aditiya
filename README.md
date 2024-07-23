@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 👋 I'm Nasrul Aditiya <br/> a passionate software development student at Politeknik Negeri Pontianak.</h2>
+<h2 align="center">Hello there! 👋 I'm Nasrul Aditiya <br/> A passionate software development student at Politeknik Negeri Pontianak.</h2>
 
 
 ###
